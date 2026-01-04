@@ -27,6 +27,7 @@ Tools & Platforms      STS / VS Code, Postman, Git, GitHub
 ✅ Responsive, mobile-friendly UI
 ✅ Integrated with MySQL Database
 ✅ Follows MVC architecture for scalability
+✅ Added Swagger OpenAPI support
 
 #🧑‍💻 Author
 
